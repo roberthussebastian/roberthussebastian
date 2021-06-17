@@ -1,7 +1,8 @@
-package org.robertsiagian.moviecatalogue
+package org.robertsiagian.moviecatalogue.ui.detail
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import org.robertsiagian.moviecatalogue.R
 
 class DetailMoviesActivity : AppCompatActivity() {
 
